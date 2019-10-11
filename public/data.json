@@ -1,38 +1,36 @@
 {
-    "name": "Anders Andersson",
-    "email": "Anders_Andersson@gmail.com",
+    "name": "Edis Grudic",
+    "email": "edisgrudic@gmail.com",
     "age": 27,
-    "phone":123456789,
+    "phone":"0705662708",
     "address":{
       "city":"Växjö",
-      "streetAddress": "Storgatan 10",
-      "postal": "35277"
+      "streetAddress": "Dalbovägen 5",
+      "postal": "352 38"
     },
   
     "skills":[
-      "Java",
-      "JavaScript",
-      "HTML",
-      "C#"
+      "Java - Working with BackEnd programming",
+      "JavaScript - Working with FrontEnd programming",
+      "HTML - Working with web pages",
+      "CSS - Styling of web pages",
+      "Bootstrap - Styling of web pages with a framework"
     ],
+
     "intrests":[
-      "Skiing",
-      "Computer Games"
-    ],
-  
-    "languages":[
-      {"name": "Swedish", "experience" : "High"},
-      {"name": "English", "experience" : "High"},
-      {"name": "German", "experience" : "Moderate"},
-      {"name": "French", "experience" : "Low"}
+      "Watching movies and series",
+      "Playing games on Nintendo Switch",
+      "Programming (obviously)",
+      "Spending time with my wife"
     ],
   
     "education":[
-      {"school": "Halmstad University", "title": "Computer Science and Engineering","yearStart":"2016","yearEnd":"2019"},
-      {"school": "Halmstad University", "title": "Computer Science and Engineering","yearStart":"2016","yearEnd":"2019"}
+      {"school": "Chalmers University Of Technology", "title": " Master of Science in Engineering ","yearStart":"2010","yearEnd":"2017"},
+      {"school": "Gislaved Gymnasium", "title": "Teknik programmet","yearStart":"2007","yearEnd":"2010"}
     ],
+
     "experience":[
-      {"title":"Consultant","company":"Experis AB","yearStart":"2019","yearEnd":"2020","description":"Full stack with Java and JavaScript"},
+      {"title":"Consultant/Structural Engineer","company":"ÅF -Infrastructure","yearStart":"2017","yearEnd":"2019","description":"Making structural calculations or different types of structures"},
       {"title":"Consultant","company":"Experis AB","yearStart":"2019","yearEnd":"2020","description":"Full stack with Java and JavaScript"}
     ],
   
